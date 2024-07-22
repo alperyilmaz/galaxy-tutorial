@@ -4,8 +4,8 @@ Please complete the [Data Manipulation Olympics](https://training.galaxyproject.
 
 Please answer the following question by using the files below:
 
-https://github.com/alperyilmaz/galaxy-tutorial/raw/main/hg38_genes.tsv
-https://github.com/alperyilmaz/galaxy-tutorial/raw/main/ensembl2gene_name.tsv
+* https://github.com/alperyilmaz/galaxy-tutorial/raw/main/hg38_genes.tsv
+* https://github.com/alperyilmaz/galaxy-tutorial/raw/main/ensembl2gene_name.tsv
 
 1. En uzun gen / longest gene
 2. Kromozom başına düşen gen / number of genes per chromosome
