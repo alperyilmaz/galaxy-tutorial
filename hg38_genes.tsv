@@ -1,4 +1,4 @@
-Chromosome/scaffold name	Gene start (bp)	Gene end (bp)	Gene stable ID	Gene type	Strand
+Chromosome	Start	End	GeneID	Gene_type	Strand
 MT	577	647	ENSG00000210049	Mt_tRNA	1
 MT	648	1601	ENSG00000211459	Mt_rRNA	1
 MT	1602	1670	ENSG00000210077	Mt_tRNA	1
