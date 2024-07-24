@@ -10,7 +10,7 @@ Please answer the following question by using the files below:
 1. En uzun gen / longest gene
 2. Kromozom başına düşen gen / number of genes per chromosome
 3. Gen tiplerine göre sayım / number of genes per gene type
-4. En uzun protein kodlayan gen / longest protein coding gene
+4. En uzun lncRNA geni / longest lncRNA gene
 5. Kromozom başına protein kodlayan gen / number of protein coding genes per chromosome
 6. İnsan genomunda hangi zincirde daha fazla protein kodlayan gen vardır (1 ve -1)? / which strand has more protein coding genes, minus (-1) or plus (1)?
 7. TP53 geni hangi kromozomdadır? / On which chromosome TP53 gene is located?
